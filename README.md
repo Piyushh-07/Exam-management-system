@@ -68,8 +68,7 @@ $dbname = "exam_system";
 ```
 5. Run Project
 
-Open in browser:
-http://localhost/exam-management-system
+Open in browser: via local host link
 
 📸 Screenshots
 <img width="1919" height="962" alt="Screenshot 2026-04-21 193006" src="https://github.com/user-attachments/assets/0b7f68c9-85ff-4b25-9ba5-ba7d7926749d" />
